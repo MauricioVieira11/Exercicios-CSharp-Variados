@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\bin\Debug\net5.0\Two.exe
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\bin\Debug\net5.0\Two.deps.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\bin\Debug\net5.0\Two.runtimeconfig.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\bin\Debug\net5.0\Two.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\bin\Debug\net5.0\Two.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\bin\Debug\net5.0\ref\Two.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\bin\Debug\net5.0\Two.pdb
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\obj\Debug\net5.0\Two.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\obj\Debug\net5.0\Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\obj\Debug\net5.0\Two.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\obj\Debug\net5.0\Two.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\obj\Debug\net5.0\Two.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\obj\Debug\net5.0\Two.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\obj\Debug\net5.0\ref\Two.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\obj\Debug\net5.0\Two.pdb
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\EstruturaRepeticao\Two\obj\Debug\net5.0\Two.genruntimeconfig.cache
