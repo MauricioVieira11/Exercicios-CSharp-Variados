@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.exe
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.deps.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.runtimeconfig.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\bin\Debug\net5.0\ref\EstruturaCondicional.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\bin\Debug\net5.0\EstruturaCondicional.pdb
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\obj\Debug\net5.0\ref\EstruturaCondicional.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.pdb
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\One\EstruturaCondicional\obj\Debug\net5.0\EstruturaCondicional.genruntimeconfig.cache
