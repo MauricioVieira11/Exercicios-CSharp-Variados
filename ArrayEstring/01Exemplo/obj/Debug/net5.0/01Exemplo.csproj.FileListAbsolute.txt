@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\bin\Debug\net5.0\01Exemplo.exe
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\bin\Debug\net5.0\01Exemplo.deps.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\bin\Debug\net5.0\01Exemplo.runtimeconfig.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\bin\Debug\net5.0\01Exemplo.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\bin\Debug\net5.0\01Exemplo.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\bin\Debug\net5.0\ref\01Exemplo.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\bin\Debug\net5.0\01Exemplo.pdb
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\obj\Debug\net5.0\01Exemplo.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\obj\Debug\net5.0\01Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\obj\Debug\net5.0\01Exemplo.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\obj\Debug\net5.0\01Exemplo.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\obj\Debug\net5.0\01Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\obj\Debug\net5.0\01Exemplo.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\obj\Debug\net5.0\ref\01Exemplo.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\obj\Debug\net5.0\01Exemplo.pdb
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\01Exemplo\obj\Debug\net5.0\01Exemplo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\bin\Debug\net5.0\ArrayMultidimensional.exe
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\bin\Debug\net5.0\ArrayMultidimensional.deps.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\bin\Debug\net5.0\ArrayMultidimensional.runtimeconfig.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\bin\Debug\net5.0\ArrayMultidimensional.runtimeconfig.dev.json
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\bin\Debug\net5.0\ArrayMultidimensional.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\bin\Debug\net5.0\ref\ArrayMultidimensional.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\bin\Debug\net5.0\ArrayMultidimensional.pdb
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\obj\Debug\net5.0\ArrayMultidimensional.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\obj\Debug\net5.0\ArrayMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\obj\Debug\net5.0\ArrayMultidimensional.AssemblyInfoInputs.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\obj\Debug\net5.0\ArrayMultidimensional.AssemblyInfo.cs
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\obj\Debug\net5.0\ArrayMultidimensional.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\obj\Debug\net5.0\ArrayMultidimensional.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\obj\Debug\net5.0\ref\ArrayMultidimensional.dll
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\obj\Debug\net5.0\ArrayMultidimensional.pdb
+C:\Users\mauri\source\repos\Exercicios variadosCSharp\ArrayEstring\ArrayMultidimensional\obj\Debug\net5.0\ArrayMultidimensional.genruntimeconfig.cache
